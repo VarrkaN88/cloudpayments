@@ -1,5 +1,5 @@
 {
-    "name": "flowwow/cloudpayments-php-client",
+    "name": "cloud/cloudpayments-php-client",
     "description": "cloudpayments api client",
     "license": "MIT",
     "authors": [
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Flowwow\\Cloudpayments\\": "src"
+            "Cloud\\Cloudpayments\\": "src"
         }
     },
     "scripts": {
