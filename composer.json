@@ -1,5 +1,5 @@
 {
-    "name": "cloud/cloudpayments-php-client",
+    "name": "nektofff/cloudpayments-php-client",
     "description": "cloudpayments api client",
     "license": "MIT",
     "authors": [
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Cloud\\Cloudpayments\\": "src"
+            "Nektofff\\Cloudpayments\\": "src"
         }
     },
     "scripts": {
